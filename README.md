@@ -1,6 +1,8 @@
 # Quantitative_Analysis_Project
 Analysis of change of ETF return and the Price of Gold, Crude Oil and JP Morgan Stock
 
+Please go to this link for full presntation of this project.
+
 ### Data description 
 
 This data includes four columns/random variables: the daily ETF return; the daily relative change in the price of the crude oil; the daily relative change in the gold price; and the daily return of the JPMorgan Chase & Co stock. The sample size is 1000. 
