@@ -43,7 +43,7 @@ This data is consistent with the Central Limit Thearem since when we run the nor
 
 The distribution of the population has no affect the sample mean distribution. This is because it follows the central limit theorem. The central limit theorem states that if you have a population with mean μ and standard deviation σ and take sufficiently large random samples from the population with replacement text annotation indicator, then the distribution of the sample means will be approximately normally distributed.
 
-## Ramdom sampling of data
+## Random sampling of data
 
 We sample the data in 2 different ways. Both with 10 simple random sample and the other with 50. 121.152960 was the mean of the entire ETF data set. This value is contained within both our confidence intervals for the group of 10 and group of 50. I believe the 50 group would be more accurate as it contains more of the initial ETF data which allows the sample mean and std to be close to the actual mean and std
 
